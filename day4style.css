@@ -1,0 +1,27 @@
+html, body {padding: 0px;
+margin: 0px;
+}
+body {
+    text-align: center;
+}
+.contactmebox {
+    font-family: 'Itim' , cursive;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 200px auto 0 auto;
+    padding: 25;
+}
+.firstName {
+padding: 10px;
+}
+.lastName {
+padding: 10px;
+}
+.email {
+padding: 10px;
+}
+.submit {
+padding: 10px;
+}
